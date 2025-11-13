@@ -1,0 +1,23 @@
+{
+  "TIMESTAMP_COLUMN": "Date",
+  "LABEL_COLUMN_NAME": "label",
+  "LABEL_FALSE_VALUE": false,
+  "LABEL_TRUE_VALUE": true,
+  "SCORE_COLUMN_NAME": "score",
+  "SCORE_FALSE_VALUE": "NO",
+  "SCORE_TRUE_VALUE": "YES",
+  "METRICS_TO_CALC": [
+    "SEN",
+    "SP",
+    "ACC",
+    "F1"
+  ],
+  "BINS_TO_CALC": [
+    "W",
+    "MS",
+    "YS"
+  ],
+  "NUMERIC_AGGS_TO_CALC": {
+    "patient_age": "mean"
+  }
+}
