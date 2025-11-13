@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+
+# Virtual Environment
+.venv38
+
+# Local Test Outputs
+universal_performance_2021_2024_metrics_example_output.json

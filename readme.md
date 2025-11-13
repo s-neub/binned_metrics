@@ -95,7 +95,7 @@ After developing your logic in the notebook, you can run a final test using the 
     ```bash
     python binned_metrics.py
     ```
-4.  **Check Output:** This will run the `init()` and `metrics()` functions using the sample data in `synthetic_data/` and the *hardcoded* parameters in `main()`. It will produce the file `universal_performance_2021_2024_metrics_example_output.json`.
+4.  **Check Output:** This will run the `init()` and `metrics()` functions using the sample data in `synthetic_2021_2024_prediction_data.csv` and the *hardcoded* parameters in `main()`. It will produce the file `universal_performance_2021_2024_metrics_example_output.json`.
 
 #### Using `job_parameters.json` for Better Testing
 
