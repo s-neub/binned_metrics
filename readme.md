@@ -24,8 +24,7 @@ When creating a new monitor in ModelOp Center, you will use these files.
     ├── job_parameters.json   # For local testing (replaces hardcoded params)
     ├── readme.md             # This file: monitor documentation
     ├── required_assets.json  # Tells MOC what data to provide
-    └── synthetic_data/
-        └── synthetic_2021_2024_prediction_data.csv # Small sample data to make main() run
+    └── synthetic_2021_2024_prediction_data.csv # Small sample data to make main() run
 
 ### Entry Point
 
